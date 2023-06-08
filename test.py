@@ -82,3 +82,5 @@ class Monitor:
 
 monitor = Monitor(["pycharm", "Chrome"], 10)
 monitor.start()
+
+
